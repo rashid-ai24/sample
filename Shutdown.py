@@ -1,2 +1,2 @@
 import os
-os.system("shutdown /s /t 5")
+os.system("shutdown /s /t 1")
